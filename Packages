@@ -1,0 +1,13 @@
+Package: hello-there
+Version: 2.0
+Section: misc
+Architecture: all
+Maintainer: abc@123
+MD5Sum: fa006c131eadcffbf5eab9981ce5682b
+Size: 742
+Filename: hello-there_2.0_all.opk
+Source: jatin
+Description: The main gateway firmware
+Priority: optional
+
+

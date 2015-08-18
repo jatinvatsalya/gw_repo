@@ -1,0 +1,6 @@
+. hello-there:all:./.
+home hello-there:all:./home
+my_test_pkg hello-there:all:./home/secure/my_test_pkg
+secure hello-there:all:./home/secure
+test.txt hello-there:all:./home/secure/my_test_pkg/test.txt
+test2.txt hello-there:all:./home/secure/my_test_pkg/test2.txt
